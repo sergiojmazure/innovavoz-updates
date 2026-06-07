@@ -3,12 +3,12 @@
     <channel>
         <title>InnovaVoz</title>
         <item>
-            <title>1.4.1</title>
-            <pubDate>Thu, 04 Jun 2026 20:03:45 -0500</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+            <title>1.4.2</title>
+            <pubDate>Sun, 07 Jun 2026 15:19:44 -0500</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.4.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/sergiojmazure/innovavoz-updates/releases/download/v1.4.1/InnovaVoz-1.4.1-4.zip" length="2682049" type="application/octet-stream" sparkle:edSignature="tmUtF+5aCftyLL6DPoK32CB2KQRFd8hP2Mrbu+6j9tXc2/M9UT+aH7ifaBCjEK/NIkZzqzCfONSVeT85NcHJDA=="/>
+            <enclosure url="https://github.com/sergiojmazure/innovavoz-updates/releases/download/v1.4.2/InnovaVoz-1.4.2-5.zip" length="2682266" type="application/octet-stream" sparkle:edSignature="odDQFl63WgvFjGQ4XnuknPHn5ec7EITIndLVMBvvqE90xw4Hgyq47TQhm2PjJaF8zom6cPHI7eHWoY4CkQmkCA=="/>
         </item>
     </channel>
 </rss>
