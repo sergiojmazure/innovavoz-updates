@@ -8,7 +8,7 @@
             <sparkle:version>9</sparkle:version>
             <sparkle:shortVersionString>1.4.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/sergiojmazure/innovavoz-updates/releases/download/v1.4.6/InnovaVoz-1.4.6-9.zip" length="2340188" type="application/octet-stream" sparkle:edSignature="tPXsBLy+s+HOhLGJCs4xfzIvn2OHmUr23rO+D6XtRTLUJUdSyBoKy0kuFxDlOu7W+3IX4JrIFmZys5V/olZ4Aw=="/>
+            <enclosure url="https://github.com/sergiojmazure/innovavoz-updates/releases/download/v1.4.6/InnovaVoz-1.4.6-9.zip" length="2344729" type="application/octet-stream" sparkle:edSignature="QKG//79UzuSXndWXcRNWQEFbyRyLVbie8fen+jDVCw+g/y2xx5bbUjdQfEq83qyN+5nkkMwFpRZFrl8P53zsAg=="/>
         </item>
         <item>
             <title>1.4.5</title>
