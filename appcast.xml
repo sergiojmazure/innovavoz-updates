@@ -3,6 +3,24 @@
     <channel>
         <title>InnovaVoz</title>
         <item>
+            <title>1.7.1</title>
+            <pubDate>Sun, 30 Aug 2026 23:59:00 -0500</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>La app pasa a llamarse NookIA — y llega el NotchHub</h3>
+                <ul>
+                    <li><b>NotchHub</b>: panel en el notch con reproducción en curso (Música, Spotify, navegadores…), calendario, notas rápidas enlazadas con Notas de Apple, bandeja de archivos, espejo de cámara, Atajos y HUD de volumen/brillo. Se activa en Ajustes → Notch.</li>
+                    <li><b>Tecla Globo 🌐 como atajo de dictado</b>, como el dictado de Apple — sin que macOS dispare el emoji ni el cambio de idioma.</li>
+                    <li><b>Dictado más rápido</b>: la sesión de audio se prepara al abrir y se reutiliza entre dictados.</li>
+                    <li><b>Más fiable</b>: un roce del atajo no dispara dictados fantasma, Fn+flecha cancela, menos alucinaciones de Whisper y tu portapapeles no se pisa.</li>
+                </ul>
+                <p>El fichero de la app instalada conserva su nombre anterior; puedes renombrarlo a NookIA si quieres. Permisos, ajustes y modelos se conservan.</p>
+            ]]></description>
+            <enclosure url="https://github.com/sergiojmazure/innovavoz-updates/releases/download/v1.7.1/NookIA-1.7.1-20.zip" length="6897117" type="application/octet-stream" sparkle:edSignature="vswcHDrLmAa+kHPzTEH8JmuRkS7gc0gVVjyDatHzQIuRYB8TP4COTlfbUXaUntUIyqiY1yYHOdrH9VH6aKsTCA=="/>
+        </item>
+        <item>
             <title>1.6.2</title>
             <pubDate>Thu, 20 Aug 2026 13:30:00 -0500</pubDate>
             <sparkle:version>17</sparkle:version>
