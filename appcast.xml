@@ -3,6 +3,23 @@
     <channel>
         <title>InnovaVoz</title>
         <item>
+            <title>1.7.2</title>
+            <pubDate>Wed, 02 Sep 2026 22:19:07 -0500</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>Compatibilidad con los modelos de IA actuales y Sparkle al día</h3>
+                <ul>
+                    <li><b>Anthropic y OpenAI vuelven a funcionar con los modelos actuales</b> (Claude Opus 5, Sonnet 5, Haiku 4.5, GPT‑5…). La app enviaba parámetros que estos modelos rechazan y, con algunos, leía la respuesta por el bloque equivocado, así que el texto salía sin formatear. El modelo por defecto de Anthropic pasa a Claude Haiku 4.5.</li>
+                    <li><b>Claves más seguras</b>: si una versión antigua dejó una clave en el fichero de preferencias, ahora se borra de ahí. Todas viven en el Llavero.</li>
+                    <li><b>Sparkle 2.9.6</b>, el motor de actualizaciones, con sus últimas correcciones de seguridad.</li>
+                </ul>
+                <p>Sin cambios en el dictado ni en el NotchHub. Permisos, ajustes y modelos se conservan.</p>
+            ]]></description>
+            <enclosure url="https://github.com/sergiojmazure/innovavoz-updates/releases/download/v1.7.2/NookIA-1.7.2-21.zip" length="6904358" type="application/octet-stream" sparkle:edSignature="/PJCGk5yrhRiZeEC0ZLx7Y/JdBcGhQBY1OwR9nyeIC5biUnp4tGNDsn87Ov5d5ELxTbQYipKz6Un0xjWpLzaAw=="/>
+        </item>
+        <item>
             <title>1.7.1</title>
             <pubDate>Sun, 30 Aug 2026 23:59:00 -0500</pubDate>
             <sparkle:version>20</sparkle:version>
