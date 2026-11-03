@@ -3,6 +3,25 @@
     <channel>
         <title>InnovaVoz</title>
         <item>
+            <title>2.0</title>
+            <pubDate>Mon, 02 Nov 2026 20:44:28 -0500</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>NookIA 2.0: rehecha desde cero</h3>
+                <ul>
+                    <li><b>Dictado en tu Mac</b>, sin conexión, con WhisperKit. Mantén la tecla o haz doble toque para dictar con las manos libres; los dictados largos se transcriben por fragmentos mientras hablas.</li>
+                    <li><b>Texto mejor escrito</b>: comandos como «nueva línea» o «punto y aparte», un Diccionario que corrige cómo se oyen tus nombres y términos, atajos de texto y un pulido opcional con IA (la de Apple en tu Mac o tu propio proveedor), con estilo según la app.</li>
+                    <li><b>Historial cifrado</b>, con el texto antes y después del pulido. ⌃⌥V pega el último dictado y NookIA aprende de tus correcciones.</li>
+                    <li><b>Más fiable</b>: la tecla de dictado se recupera sola, no quedan teclas fantasma, el texto vuelve al campo donde empezaste y un cambio de micrófono no pierde lo dictado.</li>
+                    <li><b>Notch rediseñado</b> y el NotchHub con los mismos widgets.</li>
+                </ul>
+                <p>Tus ajustes, diccionario, historial y permisos se conservan. La transcripción con Gemini en la nube, los atajos de voz y la traducción vuelven en una próxima versión.</p>
+            ]]></description>
+            <enclosure url="https://github.com/sergiojmazure/innovavoz-updates/releases/download/v2.0/NookIA-2.0-22.zip" length="9245362" type="application/octet-stream" sparkle:edSignature="QsaMcvikbJUGdu3YKfRWK6alULfc/5esktcqNNYHuaF01izLkhhtGa0Thuwoo1sKsPKGKbxomAY8OpopwctLBA=="/>
+        </item>
+        <item>
             <title>1.7.2</title>
             <pubDate>Wed, 02 Sep 2026 22:19:07 -0500</pubDate>
             <sparkle:version>21</sparkle:version>
