@@ -3,6 +3,22 @@
     <channel>
         <title>InnovaVoz</title>
         <item>
+            <title>2.0.1</title>
+            <pubDate>Tue, 03 Nov 2026 00:28:42 -0500</pubDate>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>NookIA 2.0.1</h3>
+                <ul>
+                    <li><b>La píldora flotante se queda a la vista</b>: una cápsula pequeña que puedes arrastrar a cualquier pantalla y que recuerda su sitio. Al dictar crece ahí mismo.</li>
+                    <li><b>Con varias pantallas, elige dónde sale el notch</b>: en todas, solo en la principal o en las que tú elijas (Ajustes &gt; General &gt; Pantallas).</li>
+                </ul>
+                <p>Tus ajustes, diccionario, historial y permisos se conservan.</p>
+            ]]></description>
+            <enclosure url="https://github.com/sergiojmazure/innovavoz-updates/releases/download/v2.0.1/NookIA-2.0.1-23.zip" length="9358031" type="application/octet-stream" sparkle:edSignature="TdHB3Ct8USWD58j2lodAFvLnYi6btoaxU/+y4kpNBl+N+YEMEURax+OjNs2giy5iTuQnsdZHTziMWboWEdbFDw=="/>
+        </item>
+        <item>
             <title>2.0</title>
             <pubDate>Mon, 02 Nov 2026 20:44:28 -0500</pubDate>
             <sparkle:version>22</sparkle:version>
