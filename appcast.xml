@@ -3,6 +3,25 @@
     <channel>
         <title>InnovaVoz</title>
         <item>
+            <title>2.1.2</title>
+            <pubDate>Tue, 03 Nov 2026 21:48:45 -0500</pubDate>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>2.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>NookIA 2.1.2</h3>
+                <ul>
+                    <li><b>Tres configuraciones de widgets</b>: cada una con sus widgets y su nombre. Cambia de una a otra con los tres puntos junto a Ajustes en el notch o con ⌃⌥1, ⌃⌥2 y ⌃⌥3.</li>
+                    <li><b>Ningún widget se pierde</b>: si no caben todos, el notch los muestra por páginas, con flechas a los lados.</li>
+                    <li><b>El notch ya no recorta tus widgets por arriba</b> y el calendario muestra los meses de seis semanas enteros.</li>
+                    <li><b>Más rápido</b>: el notch se abre en un instante, con un rebote corto.</li>
+                    <li><b>Arrastrar archivos</b>: el notch detecta mejor los documentos que arrastras desde el Finder hacia la Bandeja o AirDrop.</li>
+                </ul>
+                <p>Tus ajustes, widgets y notas se conservan: tus widgets de ahora son la configuración «Principal».</p>
+            ]]></description>
+            <enclosure url="https://github.com/sergiojmazure/innovavoz-updates/releases/download/v2.1.2/NookIA-2.1.2-26.zip" length="11359486" type="application/octet-stream" sparkle:edSignature="rAQFlA7cCfRbzyeg94uzvHIXq7d3re5DoshWPGCLYzaayx8d29I7gl4OpyY7H6vhsS72D8D1Kje7GKr5bONSCQ=="/>
+        </item>
+        <item>
             <title>2.1.1</title>
             <pubDate>Tue, 03 Nov 2026 19:36:40 -0500</pubDate>
             <sparkle:version>25</sparkle:version>
