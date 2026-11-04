@@ -3,6 +3,28 @@
     <channel>
         <title>InnovaVoz</title>
         <item>
+            <title>2.2</title>
+            <pubDate>Tue, 03 Nov 2026 23:55:03 -0500</pubDate>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>NookIA 2.2</h3>
+                <ul>
+                    <li><b>Cristal dinámico</b>: negro en la cámara que se funde en cristal. Con el modo de bajo consumo, el notch se queda negro.</li>
+                    <li><b>Música</b>: aleatorio, repetir y ♥ desde el notch, en Música y Spotify.</li>
+                    <li><b>En las alas del notch</b>: Bloq Mayús y, si lo activas, las descargas en curso.</li>
+                    <li><b>Archivos</b>: «Quitar fondo» en Transformar y «Añadir a la bandeja de NookIA» en el clic derecho del Finder (Servicios).</li>
+                    <li><b>Pomodoro</b> de 1 minuto a 8 horas, con un título para cada sesión.</li>
+                    <li><b>Teleprompter</b>: abre un PDF, un Word o un texto, ajusta las palabras por minuto, y la pantalla no se apaga mientras lees.</li>
+                    <li><b>Traducir</b> al idioma que elijas, <b>tu ubicación</b> en el Tiempo y <b>transcribir un archivo de audio</b> desde el menú.</li>
+                    <li>En «Editar widgets», arrastra los widgets para ordenarlos y los iconos de abajo para añadirlos.</li>
+                </ul>
+                <p>Tus ajustes, configuraciones y notas se conservan.</p>
+            ]]></description>
+            <enclosure url="https://github.com/sergiojmazure/innovavoz-updates/releases/download/v2.2/NookIA-2.2-29.zip" length="11568678" type="application/octet-stream" sparkle:edSignature="+tGXead2CsrnHOZWEC2KBV4hr5+P37xLOMq7uaMz5q1Z+2nTWAcZez44mFmQbdNVzsmkZAgZieRxrWEALYXaBg=="/>
+        </item>
+        <item>
             <title>2.1.4</title>
             <pubDate>Tue, 03 Nov 2026 22:44:46 -0500</pubDate>
             <sparkle:version>28</sparkle:version>
