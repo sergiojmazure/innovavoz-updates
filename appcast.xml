@@ -3,6 +3,22 @@
     <channel>
         <title>InnovaVoz</title>
         <item>
+            <title>2.2.1</title>
+            <pubDate>Wed, 04 Nov 2026 14:24:35 -0500</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>2.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>NookIA 2.2.1</h3>
+                <ul>
+                    <li><b>Notch más suave</b>: se abre rápido y sin rebote.</li>
+                    <li><b>Acerca de NookIA</b>: nueva pestaña en Ajustes y en el menú, con la versión, quién la desarrolla y la búsqueda de actualizaciones.</li>
+                </ul>
+                <p>Tus ajustes, configuraciones y notas se conservan.</p>
+            ]]></description>
+            <enclosure url="https://github.com/sergiojmazure/innovavoz-updates/releases/download/v2.2.1/NookIA-2.2.1-30.zip" length="11585223" type="application/octet-stream" sparkle:edSignature="JFjl+u+w84nYxBQcIbbXSpN0hLeR5yvw27+6r7RJQB55wv7rFIcEEId7BpEibnHhQZpn4eSZWRpBRx/dMoDEAw=="/>
+        </item>
+        <item>
             <title>2.2</title>
             <pubDate>Tue, 03 Nov 2026 23:55:03 -0500</pubDate>
             <sparkle:version>29</sparkle:version>
