@@ -3,6 +3,22 @@
     <channel>
         <title>InnovaVoz</title>
         <item>
+            <title>2.2.2</title>
+            <pubDate>Wed, 04 Nov 2026 15:00:51 -0500</pubDate>
+            <sparkle:version>31</sparkle:version>
+            <sparkle:shortVersionString>2.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>NookIA 2.2.2</h3>
+                <ul>
+                    <li><b>Píldora flotante</b>: se queda centrada en su sitio al terminar un dictado.</li>
+                    <li>Recuerda dónde la sueltas aunque justo en ese momento termine un dictado o cambies un ajuste.</li>
+                </ul>
+                <p>Tus ajustes, configuraciones y notas se conservan.</p>
+            ]]></description>
+            <enclosure url="https://github.com/sergiojmazure/innovavoz-updates/releases/download/v2.2.2/NookIA-2.2.2-31.zip" length="11605677" type="application/octet-stream" sparkle:edSignature="brRGdYSpJi3welRyavfAMURKvRdQc3e+UxQLadZ2U/JPUK14Tf+AIVNw8Q/heqyr2Ogn0y9JEudQa4Jr2xDhDg=="/>
+        </item>
+        <item>
             <title>2.2.1</title>
             <pubDate>Wed, 04 Nov 2026 14:24:35 -0500</pubDate>
             <sparkle:version>30</sparkle:version>
