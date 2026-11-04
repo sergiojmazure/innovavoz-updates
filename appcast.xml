@@ -3,6 +3,21 @@
     <channel>
         <title>InnovaVoz</title>
         <item>
+            <title>2.1.1</title>
+            <pubDate>Tue, 03 Nov 2026 19:36:40 -0500</pubDate>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>2.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>NookIA 2.1.1</h3>
+                <ul>
+                    <li><b>El notch se abre como debe</b>: cae desde la cámara con un pequeño rebote y descubre tus widgets, en lugar de entrar de lado.</li>
+                </ul>
+                <p>Todo lo de la 2.1 sigue igual: tus ajustes, widgets y notas se conservan.</p>
+            ]]></description>
+            <enclosure url="https://github.com/sergiojmazure/innovavoz-updates/releases/download/v2.1.1/NookIA-2.1.1-25.zip" length="11264370" type="application/octet-stream" sparkle:edSignature="AVIzLM4HRkQES0l8+NcpYGoWvNTtlAMHQQJU90j656hRUSgX171rm/pIeYs0YhJS8GpHf6OPjt6GD+AjHm8KAg=="/>
+        </item>
+        <item>
             <title>2.1</title>
             <pubDate>Tue, 03 Nov 2026 15:03:23 -0500</pubDate>
             <sparkle:version>24</sparkle:version>
