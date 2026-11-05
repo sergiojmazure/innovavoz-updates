@@ -3,6 +3,22 @@
     <channel>
         <title>InnovaVoz</title>
         <item>
+            <title>2.2.3</title>
+            <pubDate>Wed, 04 Nov 2026 19:55:24 -0500</pubDate>
+            <sparkle:version>32</sparkle:version>
+            <sparkle:shortVersionString>2.2.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>NookIA 2.2.3</h3>
+                <ul>
+                    <li><b>Más estable</b>: NookIA ya no se cierra sin avisar al abrir el notch o el menú.</li>
+                    <li>Si cambias de micrófono (AirPods, una pantalla con micro), el dictado usa el nuevo sin fallar.</li>
+                </ul>
+                <p>Tus ajustes, configuraciones y notas se conservan.</p>
+            ]]></description>
+            <enclosure url="https://github.com/sergiojmazure/innovavoz-updates/releases/download/v2.2.3/NookIA-2.2.3-32.zip" length="11616332" type="application/octet-stream" sparkle:edSignature="FqklvzrTz5e5bJxsTw0DcAufbKnW2zlwBATLNQ6y+gnz8IJT4Tv2w10R8sUihKcDxjIX9UmLI2lfRi2QtqxmDA=="/>
+        </item>
+        <item>
             <title>2.2.2</title>
             <pubDate>Wed, 04 Nov 2026 15:00:51 -0500</pubDate>
             <sparkle:version>31</sparkle:version>
