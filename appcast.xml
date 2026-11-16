@@ -3,6 +3,24 @@
     <channel>
         <title>InnovaVoz</title>
         <item>
+            <title>2.3</title>
+            <pubDate>Mon, 16 Nov 2026 04:03:21 -0500</pubDate>
+            <sparkle:version>33</sparkle:version>
+            <sparkle:shortVersionString>2.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>NookIA 2.3</h3>
+                <ul>
+                    <li><b>Notch más suave</b>: asoma al llegar el puntero y se abre sin saltos ni parpadeos en el borde de la pantalla.</li>
+                    <li><b>AirPods</b>: al conectarlos, el notch muestra su icono y su batería, como el volumen.</li>
+                    <li><b>Convertir</b>, junto a Bandeja y AirDrop: suelta un audio o un vídeo y tienes su texto al lado (y subtítulos si quieres); suelta un texto y tienes un audio. Todo en tu Mac.</li>
+                    <li><b>Ordenar ventanas</b> con atajos de teclado: mitades, cuartos, tercios, maximizar u otra pantalla. Actívalo en Ajustes &gt; Ventanas.</li>
+                </ul>
+                <p>Tus ajustes, configuraciones y notas se conservan.</p>
+            ]]></description>
+            <enclosure url="https://github.com/sergiojmazure/innovavoz-updates/releases/download/v2.3/NookIA-2.3-33.zip" length="12482016" type="application/octet-stream" sparkle:edSignature="aU62mTmpJ/KNvAf4psPECZurfKlBnDPpjyUjLGLYSp5rcFdNsGD46VMdzFNJFdvnvF9zsXDyccvNAhacy0ofBw=="/>
+        </item>
+        <item>
             <title>2.2.3</title>
             <pubDate>Wed, 04 Nov 2026 19:55:24 -0500</pubDate>
             <sparkle:version>32</sparkle:version>
