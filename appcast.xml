@@ -3,6 +3,23 @@
     <channel>
         <title>InnovaVoz</title>
         <item>
+            <title>2.3.2</title>
+            <pubDate>Mon, 16 Nov 2026 21:53:25 -0500</pubDate>
+            <sparkle:version>35</sparkle:version>
+            <sparkle:shortVersionString>2.3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>NookIA 2.3.2</h3>
+                <ul>
+                    <li><b>Soltar en el notch ya funciona</b>: los archivos que arrastras a Bandeja, AirDrop y Convertir llegan por fin a su zona.</li>
+                    <li><b>Arrastra un texto</b> seleccionado en cualquier app hasta el notch: Convertir lo lee en voz alta y deja el audio en Descargas, Bandeja lo guarda y AirDrop lo envía.</li>
+                    <li>NookIA ya no se cierra sola a los pocos minutos al leer tus Recordatorios.</li>
+                </ul>
+                <p>Tus ajustes, configuraciones y notas se conservan.</p>
+            ]]></description>
+            <enclosure url="https://github.com/sergiojmazure/innovavoz-updates/releases/download/v2.3.2/NookIA-2.3.2-35.zip" length="12547440" type="application/octet-stream" sparkle:edSignature="aoZDygy13g4rtIT7G6jYCXUEFw1o6Vepcc7rRUukXyF1lxsN6YVg21lnpc/I+docR6teoMzJBcfwIRu4qYzAAg=="/>
+        </item>
+        <item>
             <title>2.3.1</title>
             <pubDate>Mon, 16 Nov 2026 21:05:28 -0500</pubDate>
             <sparkle:version>34</sparkle:version>
