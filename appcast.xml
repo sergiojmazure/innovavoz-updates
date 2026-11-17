@@ -3,6 +3,22 @@
     <channel>
         <title>InnovaVoz</title>
         <item>
+            <title>2.3.1</title>
+            <pubDate>Mon, 16 Nov 2026 21:05:28 -0500</pubDate>
+            <sparkle:version>34</sparkle:version>
+            <sparkle:shortVersionString>2.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>NookIA 2.3.1</h3>
+                <ul>
+                    <li><b>Diccionario a la vista</b>: ahora está en Ajustes &gt; Dictado y en el notch abierto, con «Abrir el diccionario…» y «Añadir palabra…».</li>
+                    <li>Busca palabras sin preocuparte de mayúsculas ni tildes; doble clic en una para editarla.</li>
+                </ul>
+                <p>Tus ajustes, configuraciones y notas se conservan.</p>
+            ]]></description>
+            <enclosure url="https://github.com/sergiojmazure/innovavoz-updates/releases/download/v2.3.1/NookIA-2.3.1-34.zip" length="12503539" type="application/octet-stream" sparkle:edSignature="09VeeaVunk5OAEBHq6T/Rlt3HqjcwbWz6ARD0+PdDRJxZNQwBuIhd0nyl3vHrilU+BY2Wj1sYX6WgtnQnI2uCg=="/>
+        </item>
+        <item>
             <title>2.3</title>
             <pubDate>Mon, 16 Nov 2026 04:03:21 -0500</pubDate>
             <sparkle:version>33</sparkle:version>
