@@ -3,6 +3,23 @@
     <channel>
         <title>InnovaVoz</title>
         <item>
+            <title>2.4.2</title>
+            <pubDate>Fri, 20 Nov 2026 21:41:01 -0500</pubDate>
+            <sparkle:version>38</sparkle:version>
+            <sparkle:shortVersionString>2.4.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>NookIA 2.4.2</h3>
+                <ul>
+                    <li><b>Transcribe un vídeo</b>: «Transcribir audio o vídeo…» convierte en texto lo que se dice en un mp4, mov o m4v, y lo copia al portapapeles.</li>
+                    <li>Si el vídeo no tiene sonido, NookIA lo dice.</li>
+                    <li>El GIF de una grabación dura lo mismo que la grabación.</li>
+                </ul>
+                <p>Tus ajustes, configuraciones y notas se conservan.</p>
+            ]]></description>
+            <enclosure url="https://github.com/sergiojmazure/innovavoz-updates/releases/download/v2.4.2/NookIA-2.4.2-38.zip" length="13438101" type="application/octet-stream" sparkle:edSignature="kWsdu7oU7xW4Cx+nd1aXCvwlaImvcDxfCIz3XnyX7NUn/3DhCTroqNTAXyxS+7FSl1NZcxmlPYIHCW3apHnDAA=="/>
+        </item>
+        <item>
             <title>2.4.1</title>
             <pubDate>Tue, 17 Nov 2026 17:50:16 -0500</pubDate>
             <sparkle:version>37</sparkle:version>
