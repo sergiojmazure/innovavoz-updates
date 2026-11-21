@@ -3,6 +3,23 @@
     <channel>
         <title>InnovaVoz</title>
         <item>
+            <title>2.6.2</title>
+            <pubDate>Sat, 21 Nov 2026 04:40:38 -0500</pubDate>
+            <sparkle:version>45</sparkle:version>
+            <sparkle:shortVersionString>2.6.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>NookIA 2.6.2</h3>
+                <ul>
+                    <li><b>Limpiar el historial</b>: borra todo, o todo salvo las últimas 24 horas, desde la papelera del Historial, el menú Edición (⌥⌘⌫ y ⇧⌥⌘⌫) o Ajustes › Privacidad. Antes te dice cuántos dictados se borran.</li>
+                    <li><b>Enlaces nookia://pantallas más seguros</b>: si llegan desde una web u otra app, NookIA te pregunta antes de cambiar tus pantallas. Atajos, Terminal y tus scripts funcionan como siempre.</li>
+                    <li>Las teles y monitores inteligentes solo se aceptan con una dirección de tu red local, y el sistema de actualizaciones pasa a Sparkle 2.10.1.</li>
+                </ul>
+                <p>Después de actualizar, deja NookIA abierta un par de minutos antes de dictar por primera vez. Tus ajustes, configuraciones y notas se conservan.</p>
+            ]]></description>
+            <enclosure url="https://github.com/sergiojmazure/innovavoz-updates/releases/download/v2.6.2/NookIA-2.6.2-45.zip" length="16188191" type="application/octet-stream" sparkle:edSignature="csy4zx7cu+0hyDeyWjpcHrCj246WDBgsvAs+FDNqkVPaMVa/WpBwttAH3dHZav8tbU3CBIY6pyrQYy4V8gwcCg=="/>
+        </item>
+        <item>
             <title>2.6.1</title>
             <pubDate>Sat, 21 Nov 2026 02:35:11 -0500</pubDate>
             <sparkle:version>44</sparkle:version>
