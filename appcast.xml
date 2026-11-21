@@ -3,6 +3,22 @@
     <channel>
         <title>InnovaVoz</title>
         <item>
+            <title>2.4.3</title>
+            <pubDate>Fri, 20 Nov 2026 22:02:10 -0500</pubDate>
+            <sparkle:version>39</sparkle:version>
+            <sparkle:shortVersionString>2.4.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>NookIA 2.4.3</h3>
+                <ul>
+                    <li><b>Arrastrar al notch</b>: al llevar un archivo directamente al notch, aunque sea rápido, se abren Bandeja, AirDrop y Convertir.</li>
+                    <li>NookIA reconoce mejor un archivo que empieza a arrastrarse desde el Finder, Dropbox o iCloud Drive.</li>
+                </ul>
+                <p>Tus ajustes, configuraciones y notas se conservan.</p>
+            ]]></description>
+            <enclosure url="https://github.com/sergiojmazure/innovavoz-updates/releases/download/v2.4.3/NookIA-2.4.3-39.zip" length="13442893" type="application/octet-stream" sparkle:edSignature="MRa0uaZgCPzUUGp0Q9E6iTPVy6hKu9lRUerKxsksbomuiNcWSMQG9KnNzjR3rsYPhY8R2Hq7EoM0sSYBUIRyAg=="/>
+        </item>
+        <item>
             <title>2.4.2</title>
             <pubDate>Fri, 20 Nov 2026 21:41:01 -0500</pubDate>
             <sparkle:version>38</sparkle:version>
