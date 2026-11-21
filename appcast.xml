@@ -3,6 +3,23 @@
     <channel>
         <title>InnovaVoz</title>
         <item>
+            <title>2.5</title>
+            <pubDate>Fri, 20 Nov 2026 23:47:41 -0500</pubDate>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>2.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>NookIA 2.5</h3>
+                <ul>
+                    <li><b>Pantallas</b>: brillo, contraste, volumen y entrada de tus monitores externos desde NookIA, también con las teclas de brillo y volumen (el nivel sale en el notch). Resolución, rotación, HDR, perfil de color, disposición y pantalla principal; presets que se activan con un clic, un atajo o un horario (a una hora, con el sol, al despertar o al conectar una pantalla); sincronizar el brillo y UltraBright en la pantalla XDR. En la ventana de NookIA (⌘4), en Ajustes y en el notch.</li>
+                    <li><b>Reproductor</b>: dos carátulas (Minimalista y «Clásico 2000»), ecualizador de 10 bandas para la lista de NookIA o para todo el Mac, y lista de reproducción propia con archivos, carpetas y listas de Música y Spotify. En el menú Reproductor (⌃⌥P, ⌃⌥E, ⌃⌥L).</li>
+                    <li><b>Dictado</b>: si macOS tiene que volver a preparar el modelo de voz, NookIA lo dice y no empieza una segunda carga.</li>
+                </ul>
+                <p>La primera vez que cambies el brillo con las teclas, NookIA puede pedir el permiso de Accesibilidad. Tus ajustes, configuraciones y notas se conservan.</p>
+            ]]></description>
+            <enclosure url="https://github.com/sergiojmazure/innovavoz-updates/releases/download/v2.5/NookIA-2.5-40.zip" length="15888704" type="application/octet-stream" sparkle:edSignature="6M6n6IfczaSzHgNHL5/V8Io69ecxC47o40zPpRQ4nSaXFNYzj/+Yb75U2j8zV+T5ViUrQWD+be7hwjRdedGUCg=="/>
+        </item>
+        <item>
             <title>2.4.3</title>
             <pubDate>Fri, 20 Nov 2026 22:02:10 -0500</pubDate>
             <sparkle:version>39</sparkle:version>
