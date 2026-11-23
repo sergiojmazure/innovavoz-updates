@@ -3,6 +3,26 @@
     <channel>
         <title>InnovaVoz</title>
         <item>
+            <title>2.7</title>
+            <pubDate>Sun, 22 Nov 2026 19:17:33 -0500</pubDate>
+            <sparkle:version>46</sparkle:version>
+            <sparkle:shortVersionString>2.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>NookIA 2.7</h3>
+                <ul>
+                    <li><b>Lo que NookIA te ha devuelto</b>: en el Historial ves cuánto tiempo te ahorra dictar, las palabras dictadas y las que ha aprendido, este mes y en total. Con «Compartir…» lo mandas como imagen.</li>
+                    <li><b>Un consejo al día</b>: en el menú de NookIA y en el notch, una función que aún no has probado. Se apaga en Ajustes › General.</li>
+                    <li><b>Novedades</b>: después de cada actualización, una ventana te cuenta lo nuevo. También está en el menú.</li>
+                    <li>Al cambiar de modelo de voz sigues dictando con el anterior mientras el nuevo se prepara.</li>
+                    <li>Quien instala NookIA por primera vez dicta en segundos: baja primero un modelo pequeño y cambia solo al bueno. El primer arranque acaba en «Tu NookIA», con lo recomendado ya marcado.</li>
+                    <li>«No se pudo pegar» y «No he oído nada» ahora te dicen qué hacer.</li>
+                </ul>
+                <p>Después de actualizar, deja NookIA abierta un par de minutos antes de dictar por primera vez. Tus ajustes, historial y notas se conservan.</p>
+            ]]></description>
+            <enclosure url="https://github.com/sergiojmazure/innovavoz-updates/releases/download/v2.7/NookIA-2.7-46.zip" length="16649083" type="application/octet-stream" sparkle:edSignature="J9cvJaqa5m727Z0nIAcToAEfCpTawgVWdbR9E8rNW11ahOA5agWI0v4BbIx7nuRFsr0Rnn2OrNoSJd6N31BHDw=="/>
+        </item>
+        <item>
             <title>2.6.2</title>
             <pubDate>Sat, 21 Nov 2026 04:40:38 -0500</pubDate>
             <sparkle:version>45</sparkle:version>
