@@ -3,6 +3,26 @@
     <channel>
         <title>InnovaVoz</title>
         <item>
+            <title>2.7.2</title>
+            <pubDate>Sun, 22 Nov 2026 22:40:15 -0500</pubDate>
+            <sparkle:version>48</sparkle:version>
+            <sparkle:shortVersionString>2.7.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>NookIA 2.7.2</h3>
+                <ul>
+                    <li><b>Lista al encender el Mac</b>: en Ajustes › General, «Abrir NookIA al iniciar sesión».</li>
+                    <li><b>El notch no tapa la pantalla completa</b>: con el Notch Hub, en películas y presentaciones el notch se aparta; al dictar sí sale. Se cambia en Ajustes › Módulos › «Ocultar en pantalla completa».</li>
+                    <li><b>⌃⌥P desde cualquier app</b> abre o cierra el reproductor flotante.</li>
+                    <li><b>El notch te dice cuánto falta</b>: mientras baja el modelo de voz, junto al notch se llena un anillo con el porcentaje. Si el modelo bueno baja mientras ya dictas con el rápido, el menú dice cuál baja y cuánto lleva.</li>
+                    <li>Si falla la descarga de un modelo, Ajustes › Dictado lo dice y ofrece «Reintentar».</li>
+                    <li>Con la píldora flotante, Ajustes › Módulos avisa de que el Notch Hub vive en el notch.</li>
+                </ul>
+                <p>Después de actualizar, deja NookIA abierta un par de minutos antes de dictar por primera vez. Tus ajustes, historial y notas se conservan.</p>
+            ]]></description>
+            <enclosure url="https://github.com/sergiojmazure/innovavoz-updates/releases/download/v2.7.2/NookIA-2.7.2-48.zip" length="16722753" type="application/octet-stream" sparkle:edSignature="RbBPzdQYUTnT+Fx9E5/b3ZS7YkYbVWIWWllJGDP3YWQ6ldzRLtmb7wBWO83rZVjMxVzgU4fZ0W7ydNuEnTu+Cg=="/>
+        </item>
+        <item>
             <title>2.7</title>
             <pubDate>Sun, 22 Nov 2026 19:17:33 -0500</pubDate>
             <sparkle:version>46</sparkle:version>
