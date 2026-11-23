@@ -3,6 +3,24 @@
     <channel>
         <title>InnovaVoz</title>
         <item>
+            <title>2.8</title>
+            <pubDate>Sun, 22 Nov 2026 23:06:22 -0500</pubDate>
+            <sparkle:version>49</sparkle:version>
+            <sparkle:shortVersionString>2.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>NookIA 2.8</h3>
+                <ul>
+                    <li><b>Cristal, el nuevo reproductor flotante</b>: una tarjeta de cristal con el color de la carátula y el icono de la app que suena, en tres tamaños. Debajo salen las demás apps que suenan o están en pausa, y en el tamaño grande, lo que viene después en tu lista. ⌃⌥P lo abre.</li>
+                    <li><b>Botones según lo que suena</b>: un pódcast salta 15 segundos, la radio en directo solo se pausa y dice «En directo», un vídeo salta 10 segundos. Aleatorio, repetir y ♥ salen cuando la app los tiene.</li>
+                    <li><b>Al momento</b>: el notch y el reproductor ven el cambio de canción en cuanto ocurre, en cualquier app, y ya no parpadean entre canciones.</li>
+                    <li><b>Tu música en el notch</b>: avisa al empezar una canción, dice «A continuación» unos segundos antes de que acabe, enseña la carátula en el lateral y cambias de canción deslizando dos dedos. Se ajusta en Ajustes › Módulos › «Música en el notch».</li>
+                </ul>
+                <p>Tus ajustes, historial y notas se conservan.</p>
+            ]]></description>
+            <enclosure url="https://github.com/sergiojmazure/innovavoz-updates/releases/download/v2.8/NookIA-2.8-49.zip" type="application/octet-stream" sparkle:edSignature="gfDVgJl0BNkRl27kG9vXUA5AhYmsAJdzZPtv40daj+lDZj+/IzrUZGNfNqaZXZMlU6ZIZ1fQE02ih21acrn8DQ==" length="17789766"/>
+        </item>
+        <item>
             <title>2.7.2</title>
             <pubDate>Sun, 22 Nov 2026 22:40:15 -0500</pubDate>
             <sparkle:version>48</sparkle:version>
